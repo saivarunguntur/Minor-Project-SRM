@@ -18,6 +18,7 @@ limitation for disease detection using computer vision:
 What is Alzheimer:
 Alzheimer's is a type of dementia that affects memory, thinking, and behavior. Symptoms eventually grow severe enough to interfere with daily tasks.
 Alzheimer's is the most common cause of dementia, a general term for memory loss and other cognitive abilities serious enough to interfere with daily life. Alzheimer's disease accounts for 60-80% of dementia cases.
+Source: https://www.alz.org/alzheimers-dementia/what-is-alzheimers
 
 Cause of Alzheimer: 
 Alzheimer's disease is thought to be caused by the abnormal build-up of proteins in and around brain cells. One of the proteins involved is called amyloid, deposits of which form plaques around brain cells. The other protein is called tau, deposits of which form tangles within brain cells. Although it's not known exactly what causes this process to begin, scientists now know that it begins many years before symptoms appear. As brain cells become affected, there's also a decrease in chemical messengers (called neurotransmitters) involved in sending messages, or signals, between brain cells. Levels of one neurotransmitter, acetylcholine, are particularly low in the brains of people with Alzheimer's disease. Over time, different areas of the brain shrink. The first areas usually affected are responsible for memories. In more unusual forms of Alzheimer's disease, different areas of the brain are affected. The first symptoms may be problems with vision or language rather than memory.
@@ -30,7 +31,7 @@ Shrinking of certain brain regions
 Inflammation
 Blood vessel damage
 The production of unstable molecules called free radicals
-Decreased energy production within cells
+Decreased energy production within cells.
 Source: https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease#:~:text=Age%20is%20the%20biggest%20known,their%20risk%20of%20Alzheimer's%20increases.
 
 Alzheimer diagnosis:
@@ -41,6 +42,7 @@ Order blood, urine, and other standard medical tests that can help identify othe
 Administer a psychiatric evaluation to determine if depression or another mental health condition is causing or contributing to a person's symptoms.
 Collect cerebrospinal fluid (CSF) via a spinal tap and measure the levels of proteins associated with Alzheimer’s and related dementias.
 Perform brain scans, such as computed tomography (CT), magnetic resonance imaging (MRI), or positron emission tomography (PET), to support an Alzheimer’s diagnosis or rule out other possible causes for symptoms.
+Source: https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed
 
 What is Convolutional Nueral Network:
 A Convolutional Neural Network (CNN) is a type of deep learning algorithm that is particularly well-suited for image recognition and processing tasks. It is made up of multiple layers, including convolutional layers, pooling layers, and fully connected layers. The architecture of CNNs is inspired by the visual processing in the human brain, and they are well-suited for capturing hierarchical patterns and spatial dependencies within images.
@@ -49,4 +51,5 @@ Convolutional Layers: These layers apply convolutional operations to input image
 Pooling Layers: Pooling layers downsample the spatial dimensions of the input, reducing the computational complexity and the number of parameters in the network. Max pooling is a common pooling operation, selecting the maximum value from a group of neighboring pixels.
 Activation Functions: Non-linear activation functions, such as Rectified Linear Unit (ReLU), introduce non-linearity to the model, allowing it to learn more complex relationships in the data.
 Fully Connected Layers: These layers are responsible for making predictions based on the high-level features learned by the previous layers. They connect every neuron in one layer to every neuron in the next layer.
+Source: https://www.geeksforgeeks.org/convolutional-neural-network-cnn-in-machine-learning/
 
