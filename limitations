@@ -4,3 +4,42 @@
 
 2. In 2016, Beheshti et al. [16] have established an automatic CAD system for AD classification using seven feature-ranking approaches and classification errors.
   •	Early diagnosis of AD using brain connectivity and clinical data.
+
+3. In 2021, Ebrahimi, et al. [18] have presented the use of CNN on MRI to identify AD.
+  •	Training 3D CNNs from scratch performed poorly on MRI dataset.
+
+4. In 2019, Maqsood et al. [17] have used an effective, automated Alzheimer’s classifcation system formulated using transfer learning, addressing binary and multi-class tasks (stage detection).
+  •	Need to analyze accuracy by fine-tuning all convolutional layer.
+
+5. Ju et al. 2017.
+  •	Need for evaluation on larger datasets.
+
+6. Shi et al. 
+  •	Lack of evaluation on a more diverse dataset.
+
+7. An et al.
+  •	Potential sensitivity to small dataset size.
+
+8. Castro et al.
+  •	Data availability and interpretability challenges in complex deep learning systems for medical diagnosis
+
+9. Bi X, Wang H (2019).
+   •	Ethical constraints in conducting invasive procedures or experimental treatment.
+
+10. Ju R, Hu C, Zhou P, Li Q (2019).
+  •	Difficulty in integrating findings from diverse methodologies and disciplines.
+
+11. Deng J, Nie W, Zhang Y (2020)
+  •	Recruitment challenges, especially in advanced stages of the disease.
+
+12. van de Mortel, L. A., Thomas, R. M., & van Wingen, G. A. (2021). Grey matter loss at different stages of cognitive decline: A role for the thalamus in developing Alzheimer’s disease. Journal of Alzheimer’s Disease, 83(2), 705–720.
+  •	small or homogeneous sample sizes can limit the generalizability of the findings.
+
+13. Thung, K.-H., Wee, C.-Y., Yap, P.-T., & Shen, D. (2016). Identifica tion of progressive mild cognitive impairment patients using incomplete longitudinal MRI scans. Brain Structure & Func tion, 221(8), 3979–3995.
+  •	High attrition rates in long-term studies due to the severity of the disease or death of participants.
+
+14. Valverde, J. M., Imani, V., Abdollahzadeh, A., De Feo, R., Prakash, M., Ciszek, R., et al. (2021). Transfer learning in magnetic resonance brain imaging: A systematic review. Journal of Imaging, 7(4), 66.
+  •	Challenges in obtaining informed consent, especially from individuals with cognitive impairments.
+
+15. Yamanakkanavar, N., Choi, J. Y., & Lee, B. (2020). MRI segmentation and classification of human brain using deep learning for diag nosis of Alzheimer’s disease: A survey. Sensors, 20(11), 3243
+  •	Differences in dosages, duration of treatment, and patient adherence can affect study outcomes.
