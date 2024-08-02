@@ -1,0 +1,6 @@
+1. In 2021, Zhang, et al. [14] have suggested a CNN that is densely connected and has a connection-wise attention system to acquire the multi-level features of brain MRI for the purpose of classifying AD.
+  •	Limited exploration of drawbacks provided.
+  • Integration of multiple modalities can increase computational complexity.
+
+2. In 2016, Beheshti et al. [16] have established an automatic CAD system for AD classification using seven feature-ranking approaches and classification errors.
+  •	Early diagnosis of AD using brain connectivity and clinical data.
