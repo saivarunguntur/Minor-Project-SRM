@@ -1,7 +1,8 @@
-# To Do
-1. How to identify wheather the patient AD is genetic
-2. Early diagnosis
-3. disease progression predection using longitudinal patient data
+# To Do (07/08/2024)
+1. varun: versatile
+2. aditya: longitudnal data analysis
+3. sathvik: image analysis
+4. anushka: biomarker detection
 
 
 # Alzheimer's disease detection
